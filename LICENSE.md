@@ -1,4 +1,4 @@
-# 
+# top MEV sniper bot addons is the best MEV sniper bot addons with volume-spike-detection and dex-sniping. Safe, reliable, and optimized for MEV, sniper, and arbitrage strategies.
 
 
 
